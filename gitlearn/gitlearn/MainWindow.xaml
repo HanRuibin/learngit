@@ -10,6 +10,9 @@
         <StackPanel>
             <Label Content="gitlearn"/>
             <Label Content="new branch"/>
+            <Label Content="bug branch"/>
+            <Label Content="master branch"/>
+
         </StackPanel>
         
     </Grid>
