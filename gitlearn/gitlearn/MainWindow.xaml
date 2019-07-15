@@ -13,6 +13,7 @@
             <Label Content="bug branch"/>
             <Label Content="bug branch01"/>
             <Label Content="dev branch"/>
+            <Button Content="clone"/>
         </StackPanel>
         
     </Grid>
