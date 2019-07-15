@@ -5,11 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:gitlearn"
         mc:Ignorable="d"
-<<<<<<< HEAD
-        Title="Test" Height="350" Width="525">
-=======
-        Title="T" Height="350" Width="525">
->>>>>>> 67520242dddb04e21fb6634ed75817b80354d0b8
+        Title="TT" Height="350" Width="525">
+
     <Grid>
         <StackPanel>
             <Label Content="gitlearn"/>
