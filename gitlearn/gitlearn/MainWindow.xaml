@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:gitlearn"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="T" Height="350" Width="525">
     <Grid>
         <StackPanel>
             <Label Content="gitlearn"/>
@@ -14,6 +14,7 @@
             <Label Content="bug branch01"/>
             <Label Content="dev branch"/>
             <Button Content="clone"/>
+            <TextBox Background="Black"/>
         </StackPanel>
         
     </Grid>
