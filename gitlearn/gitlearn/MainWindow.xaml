@@ -11,6 +11,7 @@
             <Label Content="gitlearn"/>
             <Label Content="new branch"/>
             <Label Content="bug branch"/>
+            <Label Content="bug branch01"/>
         </StackPanel>
         
     </Grid>
